@@ -57,7 +57,7 @@
     <a href="https://github.com/s-jje/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=s-jje&show_icons=true&theme=ayu-mirage&repo=github-readme-stats" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-jje&theme=ayu-mirage&langs_count=10&layout=compact" />
     </a>
