@@ -54,7 +54,7 @@
 ## GitHub Stats
 <div align=center>
   <div>
-    <a href="https://github.com/s-jje/github-readme-stats">
+    <a>
       <img src="https://github-readme-stats.vercel.app/api?username=s-jje&show_icons=true&theme=ayu-mirage&repo=github-readme-stats" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -62,4 +62,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-jje&theme=ayu-mirage&langs_count=10&layout=compact" />
     </a>
   </div>
+</div>
+
+#
+<div align=center>
+  <a href="https://hits.seeyoufarm.com">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs-jje&count_bg=%231F2430&title_bg=%2373D0FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  </a>
 </div>
