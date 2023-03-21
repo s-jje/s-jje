@@ -21,31 +21,31 @@
 ## Repositories
 <div align=center>
   <div>
-    <a href="https://github.com/s-jje/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-jje&repo=waiting-catch&theme=ayu-mirage" margin="10px 10px 10px 10px" />
+    <a href="https://github.com/s-jje/waiting-catch">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-jje&repo=waiting-catch&theme=ayu-mirage" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/s-jje/github-readme-stats">
+    <a href="https://github.com/s-jje/PS">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-jje&repo=PS&theme=ayu-mirage" />
     </a>
   </div>
   <br>
   <div>
-    <a href="https://github.com/s-jje/github-readme-stats">
+    <a href="https://github.com/s-jje/matching-system">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-jje&repo=matching-system&theme=ayu-mirage" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/s-jje/github-readme-stats">
+    <a href="https://github.com/s-jje/simple-blog">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-jje&repo=simple-blog&theme=ayu-mirage" />
     </a>
   </div>
   <br>
   <div>
-    <a href="https://github.com/s-jje/github-readme-stats">
+    <a href="https://github.com/s-jje/i5-bank-management-system">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-jje&repo=i5-bank-management-system&theme=ayu-mirage" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/s-jje/github-readme-stats">
+    <a href="https://github.com/s-jje/i5-memo">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-jje&repo=i5-memo&theme=ayu-mirage" />
     </a>
   </div>
