@@ -24,6 +24,7 @@
     <a href="https://github.com/s-jje/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-jje&repo=waiting-catch&theme=ayu-mirage" margin="10px 10px 10px 10px" />
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/s-jje/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-jje&repo=PS&theme=ayu-mirage" />
     </a>
@@ -33,6 +34,7 @@
     <a href="https://github.com/s-jje/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-jje&repo=matching-system&theme=ayu-mirage" />
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/s-jje/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-jje&repo=simple-blog&theme=ayu-mirage" />
     </a>
@@ -54,6 +56,7 @@
     <a href="https://github.com/s-jje/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=s-jje&show_icons=true&theme=ayu-mirage&repo=github-readme-stats" />
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-jje&theme=ayu-mirage&langs_count=10&layout=compact" />
     </a>
